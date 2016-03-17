@@ -11,6 +11,9 @@ import android.view.MenuItem;
 
 public class RemindersActivity extends AppCompatActivity {
 
+    /*
+    * 启动程序的activity
+    * */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
